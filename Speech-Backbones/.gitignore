@@ -1,0 +1,34 @@
+# general
+*~
+*.pyc
+\#*\#
+.\#*
+*DS_Store
+out.txt
+parallel_wavegan.egg-info/
+doc/_build
+slurm-*.out
+tmp*
+.eggs/
+.hypothesis/
+.idea
+.backup/
+.pytest_cache/
+__pycache__/
+.coverage*
+coverage.xml*
+.vscode*
+.nfs*
+.ipynb_checkpoints
+.d000*
+*.out
+*.err
+
+# recipe related
+Grad-TTS/checkpts
+Grad-TTS/logs
+Grad-TTS/nohup.out
+Grad-TTS/__pycache__
+Grad-TTS/out
+Grad-TTS/*.log*
+# Grad-TTS/sg_acc.blank.conformer.gst.E6.log.2

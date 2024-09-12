@@ -1,0 +1,38 @@
+A0002_S002_0_G0004_segment_0057|sil uu uo3 ii ie3 sil b u2 sil zh ix1 sil d ao4 uu uo3 sil zh ix1 d ao4 q ian2 l ong1 j iu4 sh ix4 sh ix4 sil zh en1 d e5 l a1 d an4 sh ix4 h uan2 sil zh u1 g e2 g e2 sil zh e4 g e4 r en2 uu uo3 sil j iu4 sil b u2 sil zh ix1 sil d ao4 sil|221|3
+A0002_S001_0_G0003_segment_0117|sil m ei2 ii iu3 sil uu uo3 d e5 ii i4 s iy1 sh ix4 sil j iu4 sil j ia4 r u2 sh uo1 sil|220|3
+A0001_S005_0_G0002_segment_0293|ee er2 sil q v4 sil d uan4 d ing4 t a1 sil sh ix4 ii i1 g e4 z en3 m e5 ii iang4 d e5 r en2 sil|219|3
+A0001_S001_0_G0001_segment_0151|sh en4 zh ix4 sh ix4 x i1 uu uang4 sil ii iu2 q i2 sh ix4 x ian4 z ai4 d e5 j iang3 h ua4 vv v2 x ing2 sil d ong4 aa a4|218|3
+A0001_S001_0_G0001_zh_acc3|sil j iao4 ee er4 l ing2 ii i1 s an1 n ian2 t ong2 q i1 z eng1 zh ang3 sil ee er4 sh ix2 ii i1 uu uan4 sil vv ve1 b ai3 f en1 zh ix1 sil l ing2 j iu3 ii i1 sil|218|3
+A0001_S001_0_G0002_zh_acc3|sil j iao4 ee er4 l ing2 ii i1 s an1 n ian2 t ong2 q i1 z eng1 zh ang3 sil ee er4 sh ix2 ii i1 uu uan4 sil vv ve1 b ai3 f en1 zh ix1 sil l ing2 j iu3 ii i1 sil|219|3
+A0001_S001_0_G0003_zh_acc3|sil j iao4 ee er4 l ing2 ii i1 s an1 n ian2 t ong2 q i1 z eng1 zh ang3 sil ee er4 sh ix2 ii i1 uu uan4 sil vv ve1 b ai3 f en1 zh ix1 sil l ing2 j iu3 ii i1 sil|220|3
+A0001_S001_0_G0004_zh_acc3|sil j iao4 ee er4 l ing2 ii i1 s an1 n ian2 t ong2 q i1 z eng1 zh ang3 sil ee er4 sh ix2 ii i1 uu uan4 sil vv ve1 b ai3 f en1 zh ix1 sil l ing2 j iu3 ii i1 sil|221|3
+A0001_S001_0_G0001_sg_acc0|sh en4 zh ix4 sh ix4 x i1 uu uang4 sil ii iu2 q i2 sh ix4 x ian4 z ai4 d e5 j iang3 h ua4 vv v2 x ing2 sil d ong4 aa a4|218|0
+A0001_S001_0_G0002_sg_acc0|ee er2 sil q v4 sil d uan4 d ing4 t a1 sil sh ix4 ii i1 g e4 z en3 m e5 ii iang4 d e5 r en2 sil|219|0
+A0001_S001_0_G0003_sg_acc0|sil m ei2 ii iu3 sil uu uo3 d e5 ii i4 s iy1 sh ix4 sil j iu4 sil j ia4 r u2 sh uo1 sil|220|0
+A0001_S001_0_G0004_sg_acc0|sil uu uo3 ii ie3 sil b u2 sil zh ix1 sil d ao4 uu uo3 sil zh ix1 d ao4 q ian2 l ong1 j iu4 sh ix4 sh ix4 sil zh en1 d e5 l a1 d an4 sh ix4 h uan2 sil zh u1 g e2 g e2 sil zh e4 g e4 r en2 uu uo3 sil j iu4 sil b u2 sil zh ix1 sil d ao4 sil|221|0
+A0001_S001_0_G0001_zh_acc0|sil j iao4 ee er4 l ing2 ii i1 s an1 n ian2 t ong2 q i1 z eng1 zh ang3 sil ee er4 sh ix2 ii i1 uu uan4 sil vv ve1 b ai3 f en1 zh ix1 sil l ing2 j iu3 ii i1 sil|218|0
+A0001_S001_0_G0002_zh_acc0|sil j iao4 ee er4 l ing2 ii i1 s an1 n ian2 t ong2 q i1 z eng1 zh ang3 sil ee er4 sh ix2 ii i1 uu uan4 sil vv ve1 b ai3 f en1 zh ix1 sil l ing2 j iu3 ii i1 sil|219|0
+A0001_S001_0_G0003_zh_acc0|sil j iao4 ee er4 l ing2 ii i1 s an1 n ian2 t ong2 q i1 z eng1 zh ang3 sil ee er4 sh ix2 ii i1 uu uan4 sil vv ve1 b ai3 f en1 zh ix1 sil l ing2 j iu3 ii i1 sil|220|0
+A0001_S001_0_G0004_zh_acc0|sil j iao4 ee er4 l ing2 ii i1 s an1 n ian2 t ong2 q i1 z eng1 zh ang3 sil ee er4 sh ix2 ii i1 uu uan4 sil vv ve1 b ai3 f en1 zh ix1 sil l ing2 j iu3 ii i1 sil|221|0
+SSB05900401|sil j iao4 ee er4 l ing2 ii i1 s an1 n ian2 t ong2 q i1 z eng1 zh ang3 sil ee er4 sh ix2 ii i1 uu uan4 sil vv ve1 b ai3 f en1 zh ix1 sil l ing2 j iu3 ii i1 sil|201|0
+SSB06320250|sil b ing4 b u4 k en3 d ing4 sil zh ix4 n eng2 sh ou3 j i1 zh an4 l ve4 sil sh ix4 f ou3 sil j iang1 b ei4 ii iong4 vv v2 b i3 j i4 b en3 sil|36|1
+SSB18370413|sil q ing3 q iu2 ii i1 f a3 ch e4 x iao1 sil zh ong1 uu ui4 sh ix4 zh ong1 j i2 r en2 m in2 f a3 vv van4 d e5 sil m in2 sh ix4 c ai2 d ing4 sh u1 sil|0|0
+SSB07360237|h uang2 uu ui3 uu un2 g e1 q v3 sil ii iu3 sh en2 m e5 sil|73|0
+SSB05900401_sg_acc3|sil uu uo3 ii ie3 sil b u2 sil zh ix1 sil d ao4 uu uo3 sil zh ix1 d ao4 q ian2 l ong1 j iu4 sh ix4 sh ix4 sil zh en1 d e5 l a1 d an4 sh ix4 h uan2 sil zh u1 g e2 g e2 sil zh e4 g e4 r en2 uu uo3 sil j iu4 sil b u2 sil zh ix1 sil d ao4 sil|201|3
+SSB06320250_sg_acc3|sil m ei2 ii iu3 sil uu uo3 d e5 ii i4 s iy1 sh ix4 sil j iu4 sil j ia4 r u2 sh uo1 sil|36|3
+SSB18370413_sg_acc3|ee er2 sil q v4 sil d uan4 d ing4 t a1 sil sh ix4 ii i1 g e4 z en3 m e5 ii iang4 d e5 r en2 sil|0|3
+SSB07360237_sg_acc3|sh en4 zh ix4 sh ix4 x i1 uu uang4 sil ii iu2 q i2 sh ix4 x ian4 z ai4 d e5 j iang3 h ua4 vv v2 x ing2 sil d ong4 aa a4|73|3
+SSB05900401_zh_acc3|sil j iao4 ee er4 l ing2 ii i1 s an1 n ian2 t ong2 q i1 z eng1 zh ang3 sil ee er4 sh ix2 ii i1 uu uan4 sil vv ve1 b ai3 f en1 zh ix1 sil l ing2 j iu3 ii i1 sil|201|3
+SSB06320250_zh_acc3|sil b ing4 b u4 k en3 d ing4 sil zh ix4 n eng2 sh ou3 j i1 zh an4 l ve4 sil sh ix4 f ou3 sil j iang1 b ei4 ii iong4 vv v2 b i3 j i4 b en3 sil|36|3
+SSB18370413_zh_acc3|sil q ing3 q iu2 ii i1 f a3 ch e4 x iao1 sil zh ong1 uu ui4 sh ix4 zh ong1 j i2 r en2 m in2 f a3 vv van4 d e5 sil m in2 sh ix4 c ai2 d ing4 sh u1 sil|0|3
+SSB07360237_zh_acc3|h uang2 uu ui3 uu un2 g e1 q v3 sil ii iu3 sh en2 m e5 sil|73|3
+SSB05900401_sg_acc0|sil uu uo3 ii ie3 sil b u2 sil zh ix1 sil d ao4 uu uo3 sil zh ix1 d ao4 q ian2 l ong1 j iu4 sh ix4 sh ix4 sil zh en1 d e5 l a1 d an4 sh ix4 h uan2 sil zh u1 g e2 g e2 sil zh e4 g e4 r en2 uu uo3 sil j iu4 sil b u2 sil zh ix1 sil d ao4 sil|201|0
+SSB06320250_sg_acc0|sil m ei2 ii iu3 sil uu uo3 d e5 ii i4 s iy1 sh ix4 sil j iu4 sil j ia4 r u2 sh uo1 sil|36|0
+SSB18370413_sg_acc0|ee er2 sil q v4 sil d uan4 d ing4 t a1 sil sh ix4 ii i1 g e4 z en3 m e5 ii iang4 d e5 r en2 sil|0|0
+SSB07360237_sg_acc0|sh en4 zh ix4 sh ix4 x i1 uu uang4 sil ii iu2 q i2 sh ix4 x ian4 z ai4 d e5 j iang3 h ua4 vv v2 x ing2 sil d ong4 aa a4|73|0
+prof_test_sg_acc3|zh e4 sh ix4 ii i1 d uan4 h e2 ch eng2 d e5 x in1 j ia1 p o1 k ou3 ii in1 d e5 zh ong1 uu un2 sil uu uo3 j iu2 d e5 ch eng2 g ong1 l e5 sil n in2 j ve2 d e5 z en3 m e5 ii iang4|220|3
+ppt_test_sg_acc3_218|zh ong1 g uo2 sil h en3 sil d a4 sil|218|3
+ppt_test_sg_acc3_219|zh ong1 g uo2 sil h en3 sil d a4 sil|219|3
+ppt_test_sg_acc3_220|zh ong1 g uo2 sil h en3 sil d a4 sil|220|3
+ppt_test_sg_acc3_221|zh ong1 g uo2 sil h en3 sil d a4 sil|221|3
+ppt_test_zh_acc0|zh ong1 g uo2 sil h en3 d a4 sil|0|0

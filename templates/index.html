@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text to Speech Converter</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            background-color: #e9ecef;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .container {
+            background-color: #ffffff;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            width: 100%;
+            max-width: 600px;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+            font-size: 2.5em;
+            color: #343a40;
+            letter-spacing: 1px;
+        }
+
+        form {
+            margin-bottom: 30px;
+        }
+
+        input[type="text"] {
+            width: 100%;
+            padding: 18px;
+            font-size: 18px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            border: 1px solid #ced4da;
+            box-sizing: border-box;
+            transition: border-color 0.3s ease;
+        }
+
+        input[type="text"]:focus {
+            border-color: #007bff;
+            outline: none;
+        }
+
+        input[type="text"]::placeholder {
+            color: #6c757d;
+        }
+
+        input[type="submit"] {
+            background-color: #007bff;
+            color: white;
+            padding: 15px 30px;
+            font-size: 18px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s ease, transform 0.3s ease;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+            transform: translateY(-2px);
+        }
+
+        .results {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .results .input-text-display {
+            font-size: 1.4em;
+            color: #343a40;
+            margin-bottom: 15px;
+            text-align: center;
+            word-wrap: break-word;
+        }
+
+        .audio-player {
+            text-align: center;
+        }
+
+        .audio-player audio {
+            width: 75%; /* Shorten the audio player */
+            max-width: 400px;
+            border-radius: 8px;
+            box-shadow: none;
+        }
+
+        .download-btn {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 12px 25px;
+            background-color: #28a745;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-size: 18px;
+            transition: background-color 0.3s ease, transform 0.3s ease;
+        }
+
+        .download-btn:hover {
+            background-color: #218838;
+            transform: translateY(-2px);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Text to Speech Converter</h1>
+        <form method="POST">
+            <input type="text" name="text" placeholder="Enter text here" required 
+                   value="{{ request.form['text'] if request.form['text'] else '' }}">
+            <input type="submit" value="Convert to Speech">
+        </form>
+
+        {% if audio_file %}
+        <div class="results">
+            <div class="input-text-display">
+                {{ request.form['text'] }}
+            </div>
+            <div class="audio-player">
+                <audio controls>
+                    <source src="{{ audio_file }}" type="audio/wav">
+                    Your browser does not support the audio element.
+                </audio>
+            </div>
+        </div>
+        <a href="{{ url_for('download') }}" class="download-btn">Download Audio</a>
+        {% endif %}
+    </div>
+</body>
+</html>
